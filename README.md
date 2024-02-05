@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer fullstack from Colombia 🇨🇴: </h3>
 
 - 🌱 I’m currently learning **Redux, React, TypeScript, PHP**
-- 📫 How to reach me **oamolinag@uqvirtual.edu.co**
+- 📫 How to reach me **oamolinag@uqvirtual.edu.co **
 - 📄 Know about my experiences [https://www.linkedin.com/in/orlay-andres-molina-gomez-71b470241/](https://www.linkedin.com/in/orlay-andres-molina-gomez-71b470241/)
 
 <h3 align="left">Connect with me:</h3>
@@ -48,6 +48,12 @@
   </a>
   <a href="https://www.laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+  </a>
+  <a href="https://es.redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
   </a>
 </p>
 
