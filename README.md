@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-## Tecnologías
+## Tecnologies
 
 <p align="left">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -46,9 +46,12 @@
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
   </a>
+  <a href="https://www.laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
+  </a>
 </p>
 
-## Estadísticas
+## Statistics
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=orlaymolina&show_icons=true&locale=en&layout=compact" alt="orlaymolina" /></p>
