@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Orlay Andrés Molina G.</h1>
-<h3 align="center">A passionate developer fullstack from México :mexico: </h3>
+<h3 align="center">A passionate developer fullstack from Colombia 🇨🇴: </h3>
 
 - 🌱 I’m currently learning **Redux, React, TypeScript, PHP**
 - 📫 How to reach me **oamolinag@uqvirtual.edu.co**
