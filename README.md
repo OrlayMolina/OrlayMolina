@@ -43,8 +43,8 @@
   <a href="https://www.dart.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" alt="dart" width="40" height="40" />
   </a>
-  <a href="https://www.typescript.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original-wordmark.svg" alt="typescript" width="40" height="40" />
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
   </a>
 </p>
 
