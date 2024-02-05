@@ -34,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    ![1012821_code_development_logo_mysql_icon](https://github.com/OrlayMolina/OrlayMolina/assets/111409267/07d34836-5229-4784-b613-016f70216a0e)
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
   </a>
 </p>
 
