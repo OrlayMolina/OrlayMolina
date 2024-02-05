@@ -37,10 +37,7 @@
 
 ## Estadísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orlaymolina&show_icons=true&locale=en&layout=compact" alt="orlaymolina" />
-</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=orlaymolina&show_icons=true&locale=en" alt="orlaymolina" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=orlaymolina&show_icons=true&locale=en&layout=compact" alt="orlaymolina" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orlaymolina&show_icons=true&locale=en" alt="orlaymolina" /></p>
