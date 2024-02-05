@@ -6,7 +6,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/orlay-andres-molina-gomez-71b470241/](https://www.linkedin.com/in/orlay-andres-molina-gomez-71b470241/)
 
 <h3 align="left">Connect with me:</h3>
-##Tecnologías y Estadísticas
+
+## Tecnologías
 
 <p align="left">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
