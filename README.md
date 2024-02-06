@@ -47,7 +47,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
   </a>
   <a href="https://www.laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="60" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="50" height="50" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
